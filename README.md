@@ -6,6 +6,7 @@
 # not going to update the source code that much cuz my ass is fucking lazy
 ![image](https://user-images.githubusercontent.com/87015375/174795338-e1af5748-9822-4a7a-8f3f-7781b256c037.png)
 # how to get anti flag to work:
+# this method is outdated, you can just press the anti flag button to automatically execute anti flag
 # move Debug\autoexec\antiflag to C:\Users\youruser\AppData\Roaming\Krnl\autoexec
 # if ur already ingame then rejoin
 
